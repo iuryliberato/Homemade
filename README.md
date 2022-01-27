@@ -202,3 +202,8 @@ I added the star rating so you could see what the average star ratings for each 
 ## Bugs:
 
 * The downloaded images have to be a specific size otherwise it won’t load.
+
+## Visit our website: 
+
+To demo the project, head to my Netlify link.
+To run server with code locally: yarn start.
