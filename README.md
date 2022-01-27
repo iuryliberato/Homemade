@@ -205,5 +205,5 @@ I added the star rating so you could see what the average star ratings for each 
 
 ## Visit our website: 
 
-To demo the project, head to my Netlify link.
-To run server with code locally: yarn start.
+* To demo the project, head to my [Netlify link](https://recipes-homemade.herokuapp.com/).
+* To run server with code locally: **yarn start**.
