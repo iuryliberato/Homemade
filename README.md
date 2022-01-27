@@ -205,7 +205,7 @@ I added the star rating so you could see what the average star ratings for each 
 
 ## Visit our website: 
 
-* To demo the project, head to my [Netlify link](https://recipes-homemade.herokuapp.com/).
+* To demo the project, head to my [Herokuapp](https://recipes-homemade.herokuapp.com/).
 * To start backend server locally: `mongod --dbpath ~/data/db`
 * To run backend server locally: `yarn serve`
 * To run frontend server locally: `yarn start`
